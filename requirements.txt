@@ -1,10 +1,9 @@
 streamlit==1.28.0
-tensorflow==2.14.0
+tensorflow==2.20.0
 numpy==1.25.2
 pillow==10.1.0
 opencv-python==4.8.1.78
 pandas==2.1.1
 plotly==5.18.0
 tf-keras-vis==0.8.1
-pytorch-grad-cam==1.4.1
 matplotlib==3.8.0
