@@ -1,11 +1,9 @@
+streamlit
+numpy
+opencv-python
+tensorflow
+Pillow
+pandas
 
-tensorflow==2.20.0
-numpy<2
-pillow==10.1.0
-opencv==4.8.1.78
-pandas==2.1.1
-plotly==5.18.0
-tf-keras-vis==0.8.1
-matplotlib==3.8.0
 
 
